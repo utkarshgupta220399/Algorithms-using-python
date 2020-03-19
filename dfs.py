@@ -35,3 +35,4 @@ for i in range(E):
 	graph[u].append(v)                   #generate directed graph
 S=input("enter starting point")
 dfs(S,t)
+print(time)
